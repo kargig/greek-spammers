@@ -1293,8 +1293,6 @@ blacklist_from	noreply3@mailsa.top
 blacklist_from  newsletter@e-comet.net
 blacklist_from  foropraxi@creativemail.gr
 blacklist_from  info@oenet.gr
-blacklist_from  newsletter@787-e.net
 blacklist_from  newsletter@ethereal-e.net
 blacklist_from  news@news-atlasec.gr
 blacklist_from  info@lshop.gr
-blacklist_from  newsletter@hellenic-restructuring.net
