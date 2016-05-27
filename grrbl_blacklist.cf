@@ -1307,3 +1307,4 @@ blacklist_from  newsletter@kentrodiafimisis.net
 blacklist_from  admin@ems.trusted-email.org
 blacklist_from  admin@bes.viral-email.com
 blacklist_from  Insuranceoffers@viva.gr
+blacklist_from  *@mrsmoky.gr
