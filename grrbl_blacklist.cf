@@ -1,4 +1,4 @@
-#2016051700
+#2016053000
 blacklist_from	giokas@10net.gr
 blacklist_from	Theofanis.Giotis@12pm.gr
 blacklist_from	listmaster@18-24.gr
@@ -1308,3 +1308,4 @@ blacklist_from  admin@ems.trusted-email.org
 blacklist_from  admin@bes.viral-email.com
 blacklist_from  Insuranceoffers@viva.gr
 blacklist_from  *@mrsmoky.gr
+blacklist_from  mail@pregoukos.gr
