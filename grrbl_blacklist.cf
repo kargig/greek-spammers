@@ -1312,3 +1312,5 @@ blacklist_from  *@contact-tc.gr
 blacklist_from  iero.phaethon@gmail.com
 blacklist_from  *.alfanet-sa.gr
 blacklist_from  sales@multithermsystems.com
+blacklist_from  info@chairpro.gr
+blacklist_from  info@top2training.eu
