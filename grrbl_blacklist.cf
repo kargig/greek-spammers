@@ -1061,7 +1061,6 @@ blacklist_from	courier*@alfacourier.gr
 blacklist_from	newsletter@refillmarket.net
 blacklist_from	theofanis.giotis@12pm-experts.net
 blacklist_from	info@bfnews.info
-blacklist_from	noreply@alfanet-sa.gr
 blacklist_from	ofilos@mail.com
 blacklist_from	newsletter@hotelselections.gr
 blacklist_from	webmaster@entypaonline.gr
@@ -1311,3 +1310,4 @@ blacklist_from  *@mrsmoky.gr
 blacklist_from  mail@pregoukos.gr
 blacklist_from  *@contact-tc.gr
 blacklist_from  iero.phaethon@gmail.com
+blacklist_from  *.alfanet-sa.gr
