@@ -923,6 +923,7 @@ blacklist_from	info@usb111.com
 blacklist_from	jspincel@virgilio.it
 blacklist_from	hellashostsales@virginmedia.com
 blacklist_from	ozon@vitaaction.gr
+blacklist_from  ad@vitanet.gr
 blacklist_from	newsletter@viva.gr
 blacklist_from	newsletter@vivatickets.gr
 blacklist_from	custom1@vivodinet.gr
@@ -1316,3 +1317,9 @@ blacklist_from  sales@multithermsystems.com
 blacklist_from  info@chairpro.gr
 blacklist_from  info@top2training.eu
 blacklist_from  newsletter@isquare.gr
+blacklist_from  jargyros@ilfconsult.com
+blacklist_from  noreply@synthesis.name
+blacklist_from  info@8com.gr
+blacklist_from  estergi@otenet.gr
+blacklist_from  ngiannakouris@kms.gr
+blacklist_from  jfoto007@gmail.com
