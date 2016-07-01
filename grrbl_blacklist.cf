@@ -635,7 +635,7 @@ blacklist_from	news@medicalnewsletters.eu
 blacklist_from	noreply@medicalnews.w-news.eu
 blacklist_from	mailer@medicalplus.emailzone.gr
 blacklist_from	medicalplus@medicalplus.gr
-blacklist_from	news@megamed.gr
+blacklist_from	*@megamed.gr
 blacklist_from	newsletter@melinamay.com
 blacklist_from	esmerbomba@mesajcin.com
 blacklist_from	printmasters@metaprint.gr
