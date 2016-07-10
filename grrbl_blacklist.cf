@@ -1289,7 +1289,7 @@ blacklist_from	plantech.gr@gmail.com
 blacklist_from	newsletter@787-e.net
 blacklist_from	1newsl@qbinfo.gr
 blacklist_from	newsletter@dmenounos.net
-blacklist_from	noreply3@mailsa.top
+blacklist_from	*@mailsa.top
 blacklist_from  newsletter@e-comet.net
 blacklist_from  foropraxi@creativemail.gr
 blacklist_from  info@oenet.gr
