@@ -1,4 +1,4 @@
-#2016053000
+#2016071100
 blacklist_from	giokas@10net.gr
 blacklist_from	Theofanis.Giotis@12pm.gr
 blacklist_from	listmaster@18-24.gr
@@ -1334,3 +1334,4 @@ blacklist_from  info@bsmailer.eu
 blacklist_from  secretar@epipsi.gr
 blacklist_from  sales@totalnet.gr
 blacklist_from  agronea@otenet.gr
+blacklist_from  newsletter@training-programs.net
