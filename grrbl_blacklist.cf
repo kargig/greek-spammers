@@ -1,4 +1,4 @@
-#2016071100
+#2016072100
 blacklist_from	giokas@10net.gr
 blacklist_from	Theofanis.Giotis@12pm.gr
 blacklist_from	listmaster@18-24.gr
@@ -1339,3 +1339,4 @@ blacklist_from  info@media-plus.gr
 blacklist_from  newsletter@donblue.net
 blacklist_from  info@cosmomarket.gr
 blacklist_from  info@newstomarket.com
+blacklist_from  b@sof10.net
