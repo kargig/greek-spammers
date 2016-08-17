@@ -313,6 +313,7 @@ blacklist_from	futurebs@futurebs.gr
 blacklist_from	noreply@futurebs.gr
 blacklist_from	marketing@future-line.gr
 blacklist_from	sales@futuresystems.gr
+blacklist_from  futurebs@otenet.gr
 blacklist_from	info@fxplus.eu
 blacklist_from	galoo@galoo.com
 blacklist_from	sales@galou.com
