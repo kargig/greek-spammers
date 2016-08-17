@@ -959,7 +959,7 @@ blacklist_from	newsletter@xgr.gr
 blacklist_from	newsletter@xinis.com
 blacklist_from	no-reply@xinis.com
 blacklist_from	pikrou@xinismail.edu.gr
-blacklist_from	iekxinis@xinis.net
+blacklist_from  *@xinis.net
 blacklist_from	noreply@xlshop.gr
 blacklist_from	xlsiorfestivals@xlsior.gr
 blacklist_from	contact@xn--mxaaaajjlepababcbfdfzlke8bfbshthd7dvaiuj3fud.com.gr
