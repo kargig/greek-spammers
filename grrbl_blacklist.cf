@@ -1,4 +1,4 @@
-#2016083000
+#2016091400
 blacklist_from	giokas@10net.gr
 blacklist_from	Theofanis.Giotis@12pm.gr
 blacklist_from	listmaster@18-24.gr
@@ -1349,3 +1349,4 @@ blacklist_from  info@philadelphiaenergy.gr
 blacklist_from  medcollegenewsletter@hotmail.com
 blacklist_from  info@teacherfinder.gr
 blacklist_from  info@atlastoner.eu
+blacklist_from  newsletter@success-business.net
