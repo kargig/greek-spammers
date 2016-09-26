@@ -1,4 +1,4 @@
-#2016091400
+#2016092600
 blacklist_from	giokas@10net.gr
 blacklist_from	Theofanis.Giotis@12pm.gr
 blacklist_from	listmaster@18-24.gr
@@ -1357,3 +1357,5 @@ blacklist_from  noreply@pronews-newsletter.eu
 blacklist_from  j.p.monfort.greece@expertdreamers.us
 blacklist_from  info@pharmaline.gr
 blacklist_from  newsletter@elladaonline.eu
+blacklist_from  newsletter@atlasecurity.net
+blacklist_from  eshop-787@787-eshop.net
