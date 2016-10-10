@@ -1311,7 +1311,7 @@ blacklist_from  admin@bes.viral-email.com
 blacklist_from  admin@fam.email-effect.info
 blacklist_from  Insuranceoffers@viva.gr
 blacklist_from  *@mrsmoky.gr
-blacklist_from  mail@pregoukos.gr
+blacklist_from  mail*@pregoukos.gr
 blacklist_from  *@contact-tc.gr
 blacklist_from  iero.phaethon@gmail.com
 blacklist_from  *.alfanet-sa.gr
