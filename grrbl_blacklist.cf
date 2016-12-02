@@ -1201,7 +1201,6 @@ blacklist_from	yourbest@bnbtech.yourbestfriend.gr
 blacklist_from	news2014@megamed.gr
 blacklist_from	info@webintel.gr
 blacklist_from	info@ektyposeis-entypwn.gr
-blacklist_from	webmaster@imagemail.eu
 blacklist_from	newsletter@e-aqs.info
 blacklist_from	noreply@web4business.gr
 blacklist_from	sales@linguaphone.gr
@@ -1246,7 +1245,6 @@ blacklist_from	news@mydailytip.net
 blacklist_from	n@mydailytip.net
 blacklist_from	newsletter*@kalimera.gr
 blacklist_from	*@dailysoccertip.com
-blacklist_from	newsletter@defenceandprotection.net
 blacklist_from	info@eisologismos.eu
 blacklist_from	laspopoulos@ifroc.com
 blacklist_from	newsl@qbs-nl.gr
@@ -1258,11 +1256,9 @@ blacklist_from	admin@crmedia.gr
 blacklist_from	newsletter@copielor.net
 blacklist_from	seminaria@seminaria.gr
 blacklist_from	news@betinus.com
-blacklist_from	noreply@likeartnews.gr
 blacklist_from	newsletter@consulting-learning.eu
 blacklist_from	offers@play247.gr
 blacklist_from	newsletter@defenceandprotection.net
-blacklist_from	newsletter@voipsolutions.gr
 blacklist_from	noreply-plan@wesense.gr
 blacklist_from	newsletter@voipsolutions.gr
 blacklist_from	technicalinfo@argohellas.gr
@@ -1303,7 +1299,6 @@ blacklist_from  medcollegenewsletter@hotmail.com
 blacklist_from  tmekias@hotmail.com
 blacklist_from  info@getgreekvisa.net
 blacklist_from  newsletter@getgreekvisa.net
-blacklist_from  newsletter@kentrodiafimisis.net
 blacklist_from  admin@era.trusted-email.org
 blacklist_from  newsletter@kentrodiafimisis.net
 blacklist_from  admin@ems.trusted-email.org
@@ -1347,7 +1342,6 @@ blacklist_from  newsletter@offerdose.gr
 blacklist_from  sales@smarteck.gr
 blacklist_from  newsletter@takisanestis.eu
 blacklist_from  info@philadelphiaenergy.gr
-blacklist_from  medcollegenewsletter@hotmail.com
 blacklist_from  info@teacherfinder.gr
 blacklist_from  info@atlastoner.eu
 blacklist_from  newsletter@success-business.net
