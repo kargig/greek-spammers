@@ -1372,10 +1372,9 @@ blacklist_from  alkyonhe@otenet.gr
 blacklist_from  newsletters@medonline.gr
 blacklist_from  newsletter@e-startbusiness.net
 blacklist_from  newsletter@kefalogiannis.gr
-blacklist_from  ioannapap@mailserve.gr
 blacklist_from  newsletter@pharma-share.net
-blacklist_from  lazaridis@mailserve.gr
 blacklist_from  news@news4money.gr
 blacklist_from  newsletter@easyservice.gr
 blacklist_from  newsletter@edructer.net
 blacklist_from  silverbrand.gr@mailtoall.eu
+blacklist_from  *@mailserve.gr
