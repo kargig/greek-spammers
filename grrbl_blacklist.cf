@@ -1369,3 +1369,6 @@ blacklist_from  webmaster@bsmailer.eu
 blacklist_from  *@alfarenovation.gr
 blacklist_from  newsletter@e-realenglish.net
 blacklist_from  info@oikodomein.gr
+blacklist_from  info@logodiatrofis.gr
+blacklist_from  info@psychografimata.com
+blacklist_from  noreply@newsletter.medicalnews.gr
