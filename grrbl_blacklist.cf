@@ -1377,3 +1377,6 @@ blacklist_from  newsletter@easyservice.gr
 blacklist_from  newsletter@edructer.net
 blacklist_from  silverbrand.gr@mailtoall.eu
 blacklist_from  *@mailserve.gr
+blacklist_from  info@logodiatrofis.gr
+blacklist_from  info@psychografimata.com
+blacklist_from  noreply@newsletter.medicalnews.gr
