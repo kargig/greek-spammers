@@ -1335,7 +1335,7 @@ blacklist_from  info@media-plus.gr
 blacklist_from  newsletter@donblue.net
 blacklist_from  info@cosmomarket.gr
 blacklist_from  info@newstomarket.com
-blacklist_from  b@sof10.net
+blacklist_from  *@sof10.net
 blacklist_from  olaristera@gmail.com
 blacklist_from  newsletter@offerdose.gr
 blacklist_from  sales@smarteck.gr
