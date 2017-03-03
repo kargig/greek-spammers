@@ -1178,7 +1178,6 @@ blacklist_from	noreply@notosgalleries.gr
 blacklist_from	noreply@tourismsociety.gr
 blacklist_from	notosgalleries@hotmail.com
 blacklist_from	orasigraphicarts@gmail.com
-blacklist_from	orasi@orasi.gr
 blacklist_from	press@smsxinis.gr
 blacklist_from	pr@globalgreece.gr
 blacklist_from	print@printforyou.gr
@@ -1187,7 +1186,6 @@ blacklist_from	relay1@unacservers.com
 blacklist_from	root@h2033566.stratoserver.net
 blacklist_from	sales2@interagora.gr
 blacklist_from	sales@easybuys.gr
-blacklist_from	sales@orasi.gr
 blacklist_from	sem@aqsseminars.gr
 blacklist_from	seminar@abpm-training.gr
 blacklist_from	sofo10@gmail.com
@@ -1406,3 +1404,4 @@ blacklist_from  newsletter@e-go-hi.net
 blacklist_from  vasiliszen@opaofficial.eu
 blacklist_from  kadoigiampaza1@anakiklotiki1.gr
 blacklist_from  news@alphanetrix.gr
+blacklist_from  *@orasi.gr
