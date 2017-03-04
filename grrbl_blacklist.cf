@@ -49,9 +49,6 @@ blacklist_from	noreply@ahellas.com
 blacklist_from	newsletter@air-connection.gr
 blacklist_from	news@airconnection.gr
 blacklist_from	newsletter@airconnection.gr
-blacklist_from	info@aircosmos.eu
-blacklist_from	newsletter@aircosmos.eu
-blacklist_from	www.apos.gr@aircosmos.eu
 blacklist_from	news@aircosmos.org
 blacklist_from	newsletter@airtouch.gr
 blacklist_from	mail@aivasilis.gr
@@ -1060,7 +1057,6 @@ blacklist_from	webmaster@entypaonline.gr
 blacklist_from	abpm@e-aqs.info
 blacklist_from	events@drassi.gr
 blacklist_from	info@moneytimes.gr
-blacklist_from	manager@aircosmos.eu
 blacklist_from	ldpssavvas@gmail.com
 blacklist_from	noreply@eunetinternet.gr
 blacklist_from	noreply@adsgreece.com
@@ -1070,7 +1066,6 @@ blacklist_from	newsletter@omilos-mpimpas.eu
 blacklist_from	aboutstores@aboutstores.gr
 blacklist_from	abpm@abpmseminars.gr
 blacklist_from	adv@dsprint.gr
-blacklist_from	aircosmos@aircosmos.eu
 blacklist_from	bf@globalgreece.gr
 blacklist_from	bnews65@gmail.com
 blacklist_from	bounce65@mailstudio.gr
@@ -1391,3 +1386,4 @@ blacklist_from  news@alphanetrix.gr
 blacklist_from  *@orasi.gr
 blacklist_from	*@socheap.gr
 blacklist_from	*@gps-com.gr
+blacklist_from	*@aircosmos.eu
