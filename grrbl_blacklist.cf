@@ -782,10 +782,6 @@ blacklist_from	theofanis.giotis@pmi-greece-chapter.org
 blacklist_from	news@pnpshop.gr
 blacklist_from	sales@pnpshop.gr
 blacklist_from	info@polemikos-typos.gr
-blacklist_from	info@polimonotiki.gr
-blacklist_from	monosi@polimonotiki.gr
-blacklist_from	news@polimonotiki.gr
-blacklist_from	polimonotiki@polimonotiki.gr
 blacklist_from	news@polispress.gr
 blacklist_from	info@poofomania.gr
 blacklist_from	gossip247@portalnewsletters.com
@@ -1384,3 +1380,4 @@ blacklist_from	*@socheap.gr
 blacklist_from	*@gps-com.gr
 blacklist_from	*@aircosmos.eu
 blacklist_from	*@youtell.gr
+blacklist_from	*@polimonotiki.gr
