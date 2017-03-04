@@ -999,10 +999,6 @@ blacklist_from	info@youdietmail.com
 blacklist_from	info@yourbaby.gr
 blacklist_from	noreply@yourbestfriend.gr
 blacklist_from	dopala@yourspecialagent.com
-blacklist_from	lacon@youtell.gr
-blacklist_from	newsletter@youtell.gr
-blacklist_from	seminaria-news*@youtell.gr
-blacklist_from	seminaria@youtell.gr
 blacklist_from	newsletter@yperxreomenos.gr*
 blacklist_from	news@zmallnews.gr
 blacklist_from	news@zythos.gr
@@ -1387,3 +1383,4 @@ blacklist_from  *@orasi.gr
 blacklist_from	*@socheap.gr
 blacklist_from	*@gps-com.gr
 blacklist_from	*@aircosmos.eu
+blacklist_from	*@youtell.gr
