@@ -25,9 +25,6 @@ blacklist_from	enimerotiko@64free.gr
 blacklist_from	info@aakronboats.co.nz
 blacklist_from	abasystem@abasystem.gr
 blacklist_from	aboutSTORES@aboutstores.gr
-blacklist_from	abpm@abpm-training.gr
-blacklist_from	sem@abpm-training.gr
-blacklist_from	seminars@abpm-training.gr
 blacklist_from	web@access.gr
 blacklist_from	acdnet@acd.gr
 blacklist_from	newsletter@acd.gr
@@ -1156,7 +1153,6 @@ blacklist_from	root@h2033566.stratoserver.net
 blacklist_from	sales2@interagora.gr
 blacklist_from	sales@easybuys.gr
 blacklist_from	sem@aqsseminars.gr
-blacklist_from	seminar@abpm-training.gr
 blacklist_from	sofo10@gmail.com
 blacklist_from	sofo10@hol.gr
 blacklist_from	sofo123@acn.gr
@@ -1378,3 +1374,4 @@ blacklist_from	*@aircosmos.eu
 blacklist_from	*@youtell.gr
 blacklist_from	*@polimonotiki.gr
 blacklist_from	*@kalimera.gr
+blacklist_from	*@abpm-training.gr
