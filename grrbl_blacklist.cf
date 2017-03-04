@@ -923,7 +923,6 @@ blacklist_from	info@webtec.gr
 blacklist_from	therapynet@webtec-servers.com
 blacklist_from	webtec@webtec-servers.com
 blacklist_from	info@wellness-stores.eu
-blacklist_from	noreply.plantron@wesense.gr
 blacklist_from	verbund.pamg@westsa.gr
 blacklist_from	info@wfp-elaisunileverhellas.gr
 blacklist_from	newsletter@wholefeast.info
@@ -1216,7 +1215,6 @@ blacklist_from	news@betinus.com
 blacklist_from	newsletter@consulting-learning.eu
 blacklist_from	offers@play247.gr
 blacklist_from	newsletter@defenceandprotection.net
-blacklist_from	noreply-plan@wesense.gr
 blacklist_from	newsletter@voipsolutions.gr
 blacklist_from	technicalinfo@argohellas.gr
 blacklist_from	info@betopolis.net
@@ -1227,7 +1225,6 @@ blacklist_from	newsletter@e-csap.net
 blacklist_from	*@winthebet.net
 blacklist_from	newsletter@pc-bonus.net
 blacklist_from	newsletter@hellenic-restructuring.net
-blacklist_from	noreply@wesense.gr
 blacklist_from	sat@autobinarys.com
 blacklist_from	theoharis.potami@gmail.com
 blacklist_from	newsletter@e-keepworking.net
@@ -1373,3 +1370,4 @@ blacklist_from	*@polimonotiki.gr
 blacklist_from	*@kalimera.gr
 blacklist_from	*@abpm-training.gr
 blacklist_from	*@xtr.gr
+blacklist_from	*@wesense.gr
