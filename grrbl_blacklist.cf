@@ -507,10 +507,6 @@ blacklist_from	xdoum@hotmail.com
 blacklist_from	newsletter@house-services.gr
 blacklist_from	exec-assistant@hq-seminar.com
 blacklist_from	training@hq-training.gr
-blacklist_from	02-digital-day@hsss.gr
-blacklist_from	csap-info@hsss.gr
-blacklist_from	info@hsss.gr
-blacklist_from	sec-csap@hsss.gr
 blacklist_from	eurocleaners@htomail.gr
 blacklist_from	meconomopoulos@hypercell.gr
 blacklist_from	redaction@idearts.com
@@ -1026,7 +1022,6 @@ blacklist_from	deals@ekdromi.gr
 blacklist_from	newsletter@salesinternet.gr
 blacklist_from	ellada@vivodinet.gr
 blacklist_from	info@banks2day.gr
-blacklist_from	01hsss13@hsss.gr
 blacklist_from	*@mailgreekmarketing.info
 blacklist_from	topstory@vps.topstory.gr
 blacklist_from	newsletter@topstory.gr
@@ -1076,7 +1071,6 @@ blacklist_from	noreply@adsgreece.com
 blacklist_from	advert@toptoner.gr
 blacklist_from	newsletter@omilos-mpimpas.net
 blacklist_from	newsletter@omilos-mpimpas.eu
-blacklist_from	13negotiations@hsss.gr
 blacklist_from	aboutstores@aboutstores.gr
 blacklist_from	abpm@abpmseminars.gr
 blacklist_from	adv@dsprint.gr
