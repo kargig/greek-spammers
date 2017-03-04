@@ -546,7 +546,6 @@ blacklist_from	lifo@jandspaintingplus.com
 blacklist_from	sales@johnandy.gr
 blacklist_from	admin@justperfect.gr
 blacklist_from	sales@k2net.gr
-blacklist_from	newsletter100@kalimera.gr
 blacklist_from	pr@kamikazeunit.gr
 blacklist_from	*@kamthing.com
 blacklist_from	members_club@kamthing.com
@@ -1113,13 +1112,11 @@ blacklist_from	mediaho@cronus.cloud.mediahost.gr
 blacklist_from	melivezy@gmail.com
 blacklist_from	members@e-shop.gr
 blacklist_from	news1234@hol.gr
-blacklist_from	newsletter2@kalimera.gr
 blacklist_from	newsletter-diapragmateuseis@sm-marketing.gr
 blacklist_from	newsletter@e-primus.info
 blacklist_from	newsletter@esk-marketing.info
 blacklist_from	newsletter@hol.gr
 blacklist_from	newsletter@homesupermarket.gr
-blacklist_from	newsletter@kalimera.gr
 blacklist_from	newsletter@karto-daneio.gr
 blacklist_from	newsletter@massimodiamante.eu
 blacklist_from	newsletter@multibags.info
@@ -1211,7 +1208,6 @@ blacklist_from	info@webdata.gr
 blacklist_from	george.diamantis@eshopsales.gr
 blacklist_from	news@mydailytip.net
 blacklist_from	n@mydailytip.net
-blacklist_from	newsletter*@kalimera.gr
 blacklist_from	*@dailysoccertip.com
 blacklist_from	info@eisologismos.eu
 blacklist_from	laspopoulos@ifroc.com
@@ -1381,3 +1377,4 @@ blacklist_from	*@gps-com.gr
 blacklist_from	*@aircosmos.eu
 blacklist_from	*@youtell.gr
 blacklist_from	*@polimonotiki.gr
+blacklist_from	*@kalimera.gr
