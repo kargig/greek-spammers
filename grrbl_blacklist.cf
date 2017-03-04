@@ -446,9 +446,6 @@ blacklist_from	sales@goldenwin.gr
 blacklist_from	info@gosales.gr
 blacklist_from	newsletter@gossip247.gr
 blacklist_from	info@gozeekler.gr
-blacklist_from	newsletter@gps-com.gr
-blacklist_from	promotion@gps-com.gr
-blacklist_from	test@gps-com.gr
 blacklist_from	info@gpstracker.gr
 blacklist_from	info@grabit.gr
 blacklist_from	noreplay@grammiki.gr
@@ -1048,7 +1045,6 @@ blacklist_from	no-reply@strategymentor.net
 blacklist_from	info@eborakos.gr
 blacklist_from	noreply.newsletter@ahellas.com
 blacklist_from	newsletter@ellinikifoni.net
-blacklist_from	marketing@gps-com.gr
 blacklist_from	info@realsafe.gr
 blacklist_from	newsletter@refillmarket.info
 blacklist_from	info@otishop.gr
@@ -1195,7 +1191,6 @@ blacklist_from	system@gothess.gr
 blacklist_from	seminars@oncseminars.gr
 blacklist_from	*@mailnews.eu
 blacklist_from	royalparadise@massnews.gr
-blacklist_from	exhibition@gps-com.gr
 blacklist_from	newsletter@e-seminars.info
 blacklist_from	seminars@onc.gr
 blacklist_from	noreply@morphos.cloud.emailer.gr
@@ -1395,3 +1390,4 @@ blacklist_from  kadoigiampaza1@anakiklotiki1.gr
 blacklist_from  news@alphanetrix.gr
 blacklist_from  *@orasi.gr
 blacklist_from	*@socheap.gr
+blacklist_from	*@gps-com.gr
