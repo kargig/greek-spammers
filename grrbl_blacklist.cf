@@ -951,9 +951,6 @@ blacklist_from	xtipiseto@xtipiseto.gr
 blacklist_from	slaloak.mall@xtra.co.nz
 blacklist_from	tematahon@xtra.co.nz
 blacklist_from	info@x-tremeclub.gr
-blacklist_from	newsletter@xtr.gr
-blacklist_from	news_special_weeks@xtr.gr
-blacklist_from	news@xtr.gr
 blacklist_from	info@xyla.gr
 blacklist_from	capitalismos@yahoo.com
 blacklist_from	epitropi_allileggis@yahoo.com
@@ -1375,3 +1372,4 @@ blacklist_from	*@youtell.gr
 blacklist_from	*@polimonotiki.gr
 blacklist_from	*@kalimera.gr
 blacklist_from	*@abpm-training.gr
+blacklist_from	*@xtr.gr
