@@ -1373,3 +1373,4 @@ blacklist_from	*@abpm-training.gr
 blacklist_from	*@xtr.gr
 blacklist_from	*@wesense.gr
 blacklist_from	ecord@infolab.gr
+blacklist_from	tmarkos@matego.gr
