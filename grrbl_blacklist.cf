@@ -1,4 +1,4 @@
-#2017030500
+#2017050600
 blacklist_from	giokas@10net.gr
 blacklist_from	Theofanis.Giotis@12pm.gr
 blacklist_from	listmaster@18-24.gr
@@ -1387,3 +1387,4 @@ blacklist_from	info@3dedge.eu
 blacklist_from	info@viscoma.gr
 blacklist_from	info@businessup.gr
 blacklist_from	greece.niciac@otenet.gr
+blacklist_from	info@businessup.gr
