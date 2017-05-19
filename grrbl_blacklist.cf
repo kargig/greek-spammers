@@ -1,4 +1,4 @@
-#2017050600
+#2017051900
 blacklist_from	giokas@10net.gr
 blacklist_from	Theofanis.Giotis@12pm.gr
 blacklist_from	listmaster@18-24.gr
@@ -1392,5 +1392,5 @@ blacklist_from	*@mailsa.site
 blacklist_from	*@polimonotiki1.gr
 blacklist_from	info@mailer2.gr
 blacklist_from	newsletter@vrhkes.eu
-blacklist_from  lazaridis@myserver.gr
+blacklist_from	lazaridis@myserver.gr
 blacklist_from	info@soughtoffered.eu
