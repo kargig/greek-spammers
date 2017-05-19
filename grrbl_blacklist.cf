@@ -1388,7 +1388,7 @@ blacklist_from	info@viscoma.gr
 blacklist_from	info@businessup.gr
 blacklist_from	greece.niciac@otenet.gr
 blacklist_from	info@businessup.gr
-blacklist_from	info@soughtoffered.eu
+blacklist_from	*@mailsa.site
 blacklist_from	*@polimonotiki1.gr
 blacklist_from	info@mailer2.gr
 blacklist_from	newsletter@vrhkes.eu
