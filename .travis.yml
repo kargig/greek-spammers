@@ -1,0 +1,10 @@
+---
+sudo: false
+dist: trusty
+
+addons:
+  apt:
+    packages:
+    - spamassassin
+
+script: spamassassin --config-file grrbl_blacklist.cf --lint
