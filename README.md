@@ -18,3 +18,7 @@ You should add a cron entry to perform a git pull every day in order to always h
 License
 ------
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+
+Status
+------
+[![Build Status](https://travis-ci.org/kargig/greek-spammers.svg?branch=master)](https://travis-ci.org/kargig/greek-spammers)
