@@ -1,4 +1,4 @@
-#2017051900
+#2017061500
 blacklist_from	giokas@10net.gr
 blacklist_from	Theofanis.Giotis@12pm.gr
 blacklist_from	listmaster@18-24.gr
@@ -1403,3 +1403,5 @@ blacklist_from	newsletter@e-wish.biz
 blacklist_from	abpm@abpmml.gr
 blacklist_from	apt@aptml.gr
 blacklist_from	newsletter@easydot.gr
+blacklist_from	itrsup1@gmail.com
+blacklist_from	noreply@good-news.gq
