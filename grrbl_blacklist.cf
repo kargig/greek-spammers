@@ -1422,3 +1422,4 @@ blacklist_from	news@dealwise.gr
 blacklist_from	mails@digilove.eu
 blacklist_from	*@liluinc.eu
 blacklist_from	karagiannis@tk-logistics.gr
+blacklist_from	*@news.sigmaoffice.gr
