@@ -1424,4 +1424,5 @@ blacklist_from	*@liluinc.eu
 blacklist_from	karagiannis@tk-logistics.gr
 blacklist_from	*@news.sigmaoffice.gr
 blacklist_from	*@kolinopet.eu
+blacklist_from  noreply@alu-syn.gr
 blacklist_from  apitsoli.inc@gmail.com
