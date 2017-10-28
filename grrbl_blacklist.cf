@@ -68,7 +68,7 @@ blacklist_from	rob@ameritech.net
 blacklist_from	bos@ami.gr
 blacklist_from	ims@ami.gr
 blacklist_from	sotiris-tzoumas@ami.gr
-blacklist_from	newsletter@amt-consultants.gr
+blacklist_from	*@amt-consultants.gr
 blacklist_from	info@amtech.com.gr
 blacklist_from	anakiklotiki@anakiklotiki.gr
 blacklist_from	anakiklotikiellados@anakiklotiki.gr
