@@ -6,11 +6,12 @@ If you want to be removed from the list open a new issue and provide evidence
 that the emails were sent to people who were willingly subscribed/engaged to
 your lists.
 
-## How to submit Pull Requests
+## How to submit a Pull Request (PR)
 
-If you want to submit a Pull Request, please add as many anonymized headers as possible.
+If you want to submit a PR, please add as many anonymized headers as possible.
+Each PR should only add/remove a single entry to/from the list.
 
-### Headers that should be contained in the request (if they exist)
+### Headers that should be contained in the PR (if they exist)
 
 1. **From/Return-Path**
 1. **Subject**
@@ -32,7 +33,7 @@ You can anonymize headers using one of the following ways, choose the one approp
 ### Headers you may modify before submitting:
 1. **Message-ID/X-MessageID**
 
-A spammer may possibly track the *To* address by looking at his logs and the
+A spammer may possibly track the *To* address by looking at their logs and the
 *Message-ID*, to avoid being detected you may modify that header to whatever
 you want.
 
