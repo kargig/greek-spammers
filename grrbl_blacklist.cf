@@ -1,4 +1,4 @@
-#2017061500
+#2017110900
 blacklist_from	giokas@10net.gr
 blacklist_from	Theofanis.Giotis@12pm.gr
 blacklist_from	listmaster@18-24.gr
@@ -1452,3 +1452,5 @@ blacklist_from  newsletter@exyppsamaras.gr
 blacklist_from	info@humitech.gr
 blacklist_from	info@epirusmarket.gr
 blacklist_from	newsletter@diafimisi.eu
+blacklist_from	info@plantech.gr
+blacklist_from	info@epirusmarket.gr
