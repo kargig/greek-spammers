@@ -1,4 +1,4 @@
-#2017110900
+#2017111700
 blacklist_from	giokas@10net.gr
 blacklist_from	Theofanis.Giotis@12pm.gr
 blacklist_from	listmaster@18-24.gr
@@ -1456,3 +1456,4 @@ blacklist_from	info@plantech.gr
 blacklist_from	*@lognike.eu
 blacklist_from	info@ep-gnosi.gr
 blacklist_from  chrisnikolaoschris@outlook.com
+blacklist_from	news@aquavital.gr
