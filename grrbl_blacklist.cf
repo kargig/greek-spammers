@@ -87,6 +87,7 @@ blacklist_from	news@altec.gr
 blacklist_from	acd@altecnet.gr
 blacklist_from	hnv2@altecnet.gr
 blacklist_from	newevents@alterground.gr
+blacklist_from	pantelis.katsikis@altiumtraining.gr
 blacklist_from	noreply@alu-syn.gr
 blacklist_from	news@ambio.gr
 blacklist_from	rob@ameritech.net
