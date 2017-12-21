@@ -440,6 +440,8 @@ blacklist_from	admin@fam.email-effect.info
 blacklist_from	maneno1@fastmail.fm
 blacklist_from	plapouta@fastmail.fm
 blacklist_from	mkt@fast-messengers.gr
+blacklist_from	bounce@fedosend.com
+blacklist_from	marketing@fedosend.com
 blacklist_from	info@fetrix.gr
 blacklist_from	*@fibrotexe.eu
 blacklist_from	info@filikietairia2010.gr
