@@ -3,9 +3,15 @@ language: bash
 sudo: false
 dist: trusty
 
-addons:
-  apt:
-    packages:
-    - spamassassin
+before_install:
+  - sudo -E apt-get -yq update
+  # see https://github.com/travis-ci/travis-cookbooks/issues/964
+  - sudo -E rm -f /etc/profile.d/travis-java.sh
+  - sudo -E apt-get -yq --no-install-suggests --no-install-recommends --force-yes install spamassassin
+
+#addons:
+#  apt:
+#    packages:
+#    - spamassassin
 
 script: spamassassin --config-file grrbl_blacklist.cf --lint
