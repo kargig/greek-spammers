@@ -97,6 +97,7 @@ blacklist_from	ims@ami.gr
 blacklist_from	sotiris-tzoumas@ami.gr
 blacklist_from	*@amt-consultants.gr
 blacklist_from	info@amtech.com.gr
+blacklist_from	info@anadrasiservices.gr
 blacklist_from	kadoienoikiasi@anakiklotiki1.gr
 blacklist_from	kadoigiampaza1@anakiklotiki1.gr
 blacklist_from	anakiklotiki@anakiklotiki.gr
