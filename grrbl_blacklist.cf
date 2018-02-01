@@ -205,6 +205,7 @@ blacklist_from	news@channeldoubler.co.uk
 blacklist_from	info@cheapis.gr
 blacklist_from	info@cheapvillascrete.com
 blacklist_from	offer@check-offer.com
+blacklist_from	offer@check-offers.com
 blacklist_from	info@cityu.gr
 blacklist_from	superadmin@cityu.gr
 blacklist_from	noreplay@clevermarket.gr
