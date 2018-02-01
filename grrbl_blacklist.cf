@@ -102,6 +102,7 @@ blacklist_from	kadoienoikiasi@anakiklotiki1.gr
 blacklist_from	kadoigiampaza1@anakiklotiki1.gr
 blacklist_from	anakiklotiki@anakiklotiki.gr
 blacklist_from	anakiklotikiellados@anakiklotiki.gr
+blacklist_from	kadoigiampaza@anakiklotiki.gr
 blacklist_from	findata@anaktisis.gr
 blacklist_from	noreplay@anixe.gr
 blacklist_from	info@anodikiporeia.gr
