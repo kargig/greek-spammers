@@ -862,6 +862,7 @@ blacklist_from	sofokleous10.gr@m121872.myownserver.gr
 blacklist_from	satendimento@madenova.com.br
 blacklist_from	sobrien@maderasgolf.com
 blacklist_from	ofilos@mail.com
+blacklist_from	*@mailrss.services
 blacklist_from	noreply@mailer2.cosmosonline.gr
 blacklist_from	info@mailer2.gr
 blacklist_from	enimerosi1@mailer2.point2this.com
