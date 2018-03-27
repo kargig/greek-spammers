@@ -1190,6 +1190,7 @@ blacklist_from	*@qbservices.gr
 blacklist_from	newsl@qbs-nl.gr
 blacklist_from	*@qr-hosting.eu
 blacklist_from	aphrodite.cosms@qualityservice.com
+blacklist_from	contact@radiohype.gr
 blacklist_from	info@realsafe.gr
 blacklist_from	info@realsafe.gr
 blacklist_from	newsletter@refillmarket.info
