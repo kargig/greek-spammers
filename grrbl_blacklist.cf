@@ -491,6 +491,7 @@ blacklist_from	newsletter@getgreekvisa.net
 blacklist_from	info@getthedeal.gr
 blacklist_from	noreply@ghotels.gr
 blacklist_from	news@gifts4business.gr
+blacklist_from	*@ginilom.co.ua
 blacklist_from	info@glampedakis.gr
 blacklist_from	newsletter@glampedakis.gr
 blacklist_from	newsletter@globaleco.gr
