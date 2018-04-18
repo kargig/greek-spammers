@@ -655,6 +655,7 @@ blacklist_from	system@gothess.gr
 blacklist_from	info@gozeekler.gr
 blacklist_from	*@gps-com.gr
 blacklist_from	info@gpstracker.gr
+blacklist_from	info@gr.boell.org
 blacklist_from	info@grabit.gr
 blacklist_from	noreplay@grammiki.gr
 blacklist_from	newsletter@grapsa.edu.gr
