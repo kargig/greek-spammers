@@ -336,6 +336,7 @@ blacklist_from	newsletter@e-aqs.info
 blacklist_from	sales@easybuys.gr
 blacklist_from	newsletter@easycopy.gr
 blacklist_from	newsletter@easydot.gr
+blacklist_from	noreply@newsletter.easydot.gr
 blacklist_from	newsletter@easyservice.gr
 blacklist_from	newsletter@e-balton.net
 blacklist_from	info@eborakos.gr
@@ -856,6 +857,7 @@ blacklist_from	*@locdog.biz.ua
 blacklist_from	*@lognike.eu
 blacklist_from	grigorakis@logodiatrofis.gr
 blacklist_from	info@logodiatrofis.gr
+blacklist_from	newsletter@logodiatrofis.gr
 blacklist_from	news@londongreeknews.net
 blacklist_from	info@lshop.gr
 blacklist_from	nslt@lucarte.gr
