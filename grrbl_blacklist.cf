@@ -57,7 +57,7 @@ blacklist_from	news@advantech.gr
 blacklist_from	adgroup@advnews.gr
 blacklist_from	info@afisorama.gr
 blacklist_from	hilton@africola.co.za
-blacklist_from  Theofanis.Giotis@AgileGreece.gr
+blacklist_from	Theofanis.Giotis@AgileGreece.gr
 blacklist_from	postmaster@agntravel.gr
 blacklist_from	noreply@ahellas.com
 blacklist_from	noreply.newsletter@ahellas.com
