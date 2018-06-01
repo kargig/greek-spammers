@@ -1419,6 +1419,7 @@ blacklist_from	bounce@w-news.eu
 blacklist_from	*@w-news.eu
 blacklist_from	admin@www.com
 blacklist_from	newsletter@www-gr.email-business.net
+blacklist_from	newsletter@takisanestis.email-business.net
 blacklist_from	elist@wwwmailer.com
 blacklist_from	apache@www.plus4u.gr
 blacklist_from	do_not_reply@xe.gr
