@@ -662,7 +662,7 @@ blacklist_from	newsletter@house-services.gr
 blacklist_from	training@hq-training.gr
 blacklist_from	*@hsss.eu
 blacklist_from	*@hsss.gr
-blacklist_from	office@htheoharis.gr
+blacklist_from	*@htheoharis.gr
 blacklist_from	eurocleaners@htomail.gr
 blacklist_from	info@humitech.gr
 blacklist_from	meconomopoulos@hypercell.gr
