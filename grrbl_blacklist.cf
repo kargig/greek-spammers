@@ -32,6 +32,7 @@ blacklist_from	abasystem@abasystem.gr
 blacklist_from	aboutstores@aboutstores.gr
 blacklist_from	aboutSTORES@aboutstores.gr
 blacklist_from	georgegabriel@aboutstores.gr
+blacklist_from	abpm@abpm-ml.gr
 blacklist_from	abpm@abpmml.gr
 blacklist_from	abpm@abpmseminars.gr
 blacklist_from	*@abpm-training.gr
@@ -107,6 +108,7 @@ blacklist_from	info@a-office.gr
 blacklist_from	msini@apex-steel.com
 blacklist_from	no_reply@apollo.gr
 blacklist_from	apt@aptml.gr
+blacklist_from	apt@apt-ml.gr
 blacklist_from	sem@aqsseminars.gr
 blacklist_from	seminars@aqsseminars.gr
 blacklist_from	news@aquavital.gr
@@ -433,9 +435,8 @@ blacklist_from	*@ginilom.co.ua
 blacklist_from	info@glampedakis.gr
 blacklist_from	newsletter@glampedakis.gr
 blacklist_from	newsletter@globaleco.gr
-blacklist_from	bf@globalgreece.gr
+blacklist_from	*@globalgreece.com.gr
 blacklist_from	*@globalgreece.gr
-blacklist_from	pr@globalgreece.gr
 blacklist_from	1936lin@gmail.com
 blacklist_from	413no.reply@gmail.com
 blacklist_from	addshops@gmail.com
@@ -668,6 +669,7 @@ blacklist_from	info@humitech.gr
 blacklist_from	meconomopoulos@hypercell.gr
 blacklist_from	kek.thess@ianap.gr
 blacklist_from	seminaria@ianap.gr
+blacklist_from	ibcl@ibcl-ml.gr
 blacklist_from	redaction@idearts.com
 blacklist_from	do-not-reply@ifitness.gr
 blacklist_from	do-not-reply@ifitness.gr
