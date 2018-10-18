@@ -1150,6 +1150,7 @@ blacklist_from	do_not_reply@supergold.gr
 blacklist_from	info@supergold.gr
 blacklist_from	info@superwow.gr
 blacklist_from	noreply@synthesis.name
+blacklist_from	agora-kritikon@t-online.de
 blacklist_from	info@tagatakia.gr
 blacklist_from	newsletter@takisanestis.eu
 blacklist_from	newsletter@talantzishellas.gr
