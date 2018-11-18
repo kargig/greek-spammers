@@ -866,6 +866,7 @@ blacklist_from	marketing@neted.eu
 blacklist_from	hnv1@netone.gr
 blacklist_from	info@networknews.gr
 blacklist_from	noreply@newbank.gr
+blacklist_from	gr@news.watchsale.ro
 blacklist_from	bounce@news4deals.gr
 blacklist_from	sendto@news4mee.com
 blacklist_from	news@news4money.gr
