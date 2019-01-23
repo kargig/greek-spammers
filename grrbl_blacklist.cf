@@ -405,6 +405,7 @@ blacklist_from	hd2@focus-on.gr
 blacklist_from	invitation@focusonline.gr
 blacklist_from	info@focuswebtv.gr
 blacklist_from	lacon.ath.forthnet.gr@forthnet.gr
+blacklist_from	info@fracassohellas.gr
 blacklist_from	tinfo@fraserfurniture.com
 blacklist_from	info@freedo.gr
 blacklist_from	ATH-Cosmos@freemail.gr
