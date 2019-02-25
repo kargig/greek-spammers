@@ -32,6 +32,7 @@ blacklist_from	abasystem@abasystem.gr
 blacklist_from	aboutstores@aboutstores.gr
 blacklist_from	aboutSTORES@aboutstores.gr
 blacklist_from	georgegabriel@aboutstores.gr
+blacklist_from	*@abpm.gr
 blacklist_from	abpm@abpm-ml.gr
 blacklist_from	abpm@abpmml.gr
 blacklist_from	abpm@abpmseminars.gr
@@ -788,7 +789,7 @@ blacklist_from	bounce@mailsend.gr
 blacklist_from	info@mailsend.gr
 blacklist_from	lazaridis@mailsend.gr
 blacklist_from	*@mailserve.gr
-blacklist_from	bounce65@mailstudio.gr
+blacklist_from	bounce*@mailstudio.gr
 blacklist_from	*@mailtoall.eu
 blacklist_from	bounce@mailtool.gr
 blacklist_from	netgenie@mailtool.gr
