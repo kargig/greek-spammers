@@ -1,4 +1,4 @@
-#2017121300
+#2019030400
 blacklist_from	giokas@10net.gr
 blacklist_from	info@11088.gr
 blacklist_from	Theofanis.Giotis@12pm.eu
@@ -751,6 +751,7 @@ blacklist_from	noreply@lancom.gr
 blacklist_from	stracion@larosanautica.com
 blacklist_from	yrracion@larosanautica.com
 blacklist_from	noreply-280@learn4good.com
+blacklist_from	marketing@leditnow.gr
 blacklist_from	sales@leditnow.gr
 blacklist_from	newsletter@letstalk.gr
 blacklist_from	newsletter@levelpro.gr
