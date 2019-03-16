@@ -1,4 +1,4 @@
-#2019030400
+#2019031600
 blacklist_from	giokas@10net.gr
 blacklist_from	info@11088.gr
 blacklist_from	Theofanis.Giotis@12pm.eu
@@ -438,6 +438,7 @@ blacklist_from	info@glampedakis.gr
 blacklist_from	newsletter@glampedakis.gr
 blacklist_from	newsletter@globaleco.gr
 blacklist_from	*@globalgreece.com.gr
+blacklist_from	*@globalgreece.eu
 blacklist_from	*@globalgreece.gr
 blacklist_from	1936lin@gmail.com
 blacklist_from	413no.reply@gmail.com
