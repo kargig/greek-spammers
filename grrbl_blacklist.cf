@@ -1009,6 +1009,7 @@ blacklist_from	noreply@pazaropoulos.gr
 blacklist_from	newsletter@pc-bonus.net
 blacklist_from	evep@pcci.gr
 blacklist_from	info@pcinfo.gr
+blacklist_from	marketing@pcinfo.gr
 blacklist_from	maria@pcmi.gr
 blacklist_from	info@pcneting.gr
 blacklist_from	info@pdahellas.gr
