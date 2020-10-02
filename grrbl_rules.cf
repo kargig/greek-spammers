@@ -1,0 +1,59 @@
+body	 D_CANNABIS_OIL	/CANNABIS OIL/
+score	 D_CANNABIS_OIL	5.0
+describe D_CANNABIS_OIL	Cannabis oil spam
+
+header	 D_CANNABIS_OIL2	Subject =~ /^Συμπυκνωμένο έλαιο κάνναβης/
+score	 D_CANNABIS_OIL2	5.0
+describe D_CANNABIS_OIL2	Cannabis oil spam
+
+body	 D_EROFERTIL	/Erofertil/i
+score	 D_EROFERTIL	5.0
+describe D_EROFERTIL	Sexual helpers
+
+body	 D_FAKE_REGISTRATION	/have received this message because you are registered as a customer of our/
+score	 D_FAKE_REGISTRATION	1.0
+describe D_FAKE_REGISTRATION	Registration footer
+
+header	 D_LEREEL_SERUM	From =~ /LeReel Serum/
+score	 D_LEREEL_SERUM	5.0
+describe D_LEREEL_SERUM	Sexual helpers
+
+header	 D_LEREEL_SERUM2	Subject =~ /^ΕΝΕΡΓΗ ΛΥΣΗ ΣΤΑ ΠΡΟΒΛΗΜΑΤΑ ΤΗΣ ΗΛΙΚΙΑΣ/
+score	 D_LEREEL_SERUM2	5.0
+describe D_LEREEL_SERUM2	Sexual helpers
+
+header	 D_CANNABIS_OIL3	Subject =~ /^Σωστή θεραπεία του διαβήτη/
+score	 D_CANNABIS_OIL3	5.0
+describe D_CANNABIS_OIL3	Cannabis oil spam
+
+header	 D_EROFERTIL2	From =~ /Erofertil/
+score	 D_EROFERTIL2	5.0
+describe D_EROFERTIL2	Sexual helpers
+
+header	 D_EROFERTIL3	Subject =~ /^Ενεργό σύνθετο για την ενίσχυση της αρσενικής δύναμης/
+score	 D_EROFERTIL3	5.0
+describe D_EROFERTIL3	Sexual helpers
+
+body	 D_XTACTICAL_DRONE	/drone XTactical/i
+score	 D_XTACTICAL_DRONE	5.0
+describe D_XTACTICAL_DRONE	Drone marketing
+
+header	 D_XTACTICAL_DRONE2	Subject =~ /^Ένα εξαιρετικό βίντεο κατά την πτήση/
+score	 D_XTACTICAL_DRONE2	5.0
+describe D_XTACTICAL_DRONE2	Drone marketing
+
+body	 D_VITAHAIR	/VitaHair Max/i
+score	 D_VITAHAIR	5.0
+describe D_VITAHAIR	Hair recovery spam
+
+body	 D_LIQUIDLEATHER	/Liquid Leather/i
+score	 D_LIQUIDLEATHER	5.0
+describe D_LIQUIDLEATHER	Leather restoration spam
+
+body	 D_REGCUSTOMER	/have received this message because you are registered/i
+score	 D_REGCUSTOMER	1.0
+describe D_REGCUSTOMER	Footer commonly used in spam
+
+body	 D_REGCUSTOMER2	/If you do not want to receive our messages, please click/i
+score	 D_REGCUSTOMER2	1.0
+describe D_REGCUSTOMER2	Footer commonly used in spam
