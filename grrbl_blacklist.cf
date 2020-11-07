@@ -1242,6 +1242,7 @@ blacklist_from	info@webintel.gr
 blacklist_from	info@webtec.gr
 blacklist_from	therapynet@webtec-servers.com
 blacklist_from	webtec@webtec-servers.com
+blacklist_from	marketing@wedoo.gr
 blacklist_from	info@wellness-stores.eu
 blacklist_from	*@wesense.gr
 blacklist_from	verbund.pamg@westsa.gr
