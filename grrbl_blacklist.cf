@@ -712,6 +712,7 @@ blacklist_from	secom@ip-com.gr
 blacklist_from	info@isbfinance.gr
 blacklist_from	doldem@ism.com.br
 blacklist_from	newsletter@isquare.gr
+blacklist_from	cards@mmsg01.istrom.gr
 blacklist_from	sales@i-systems.eu
 blacklist_from	security.solutions@i-systems.gr
 blacklist_from	education@itec.edu
