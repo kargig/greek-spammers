@@ -61,3 +61,7 @@ describe D_REGCUSTOMER2	Footer commonly used in spam
 header	 D_DETONIC	Subject =~ /^DETONIC - ΚΕΡΔΊΖΕΙ ΤΗΝ ΥΠΈΡΤΑΣΗ/
 score	 D_DETONIC	5.0
 describe D_DETONIC	Medical spam
+
+header   D_PREDSTAVIT  Subject =~ /^PREDSTAVIT - ΑΞΙΌΠΙΣΤΗ ΛΎΣΗ ΣΕ ΈΝΑ ΕΥΑΊΣΘΗΤΟ ΠΡΌΒΛΗΜΑ/
+score    D_PREDSTAVIT  5.0
+describe D_PREDSTAVIT  Medical spam
