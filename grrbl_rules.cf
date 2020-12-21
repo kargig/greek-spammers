@@ -65,3 +65,7 @@ describe D_DETONIC	Medical spam
 header   D_PREDSTAVIT  Subject =~ /^PREDSTAVIT - ΑΞΙΌΠΙΣΤΗ ΛΎΣΗ ΣΕ ΈΝΑ ΕΥΑΊΣΘΗΤΟ ΠΡΌΒΛΗΜΑ/
 score    D_PREDSTAVIT  5.0
 describe D_PREDSTAVIT  Medical spam
+
+header   D_BITCOINB  Subject =~ /^Τι ακριβώς είναι το Bitcoin Buyer και πώς λειτουργεί/
+score    D_BITCOINB  5.0
+describe D_BITCOINB  Bitcoin spam
