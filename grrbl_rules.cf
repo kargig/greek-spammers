@@ -73,3 +73,7 @@ describe D_BITCOINB  Bitcoin spam
 header   D_HONDROSTRONG  Subject =~ /^Hondrostrong *– Αποτελεσματικό προϊόν/
 score    D_HONDROSTRONG  5.0
 describe D_HONDROSTRONG  Medical spam
+
+header   D_KETO  Subject =~ /^Ασφαλής μείωση βάρους/
+score    D_KETO  5.0
+describe D_KETO  Weight loss spam
