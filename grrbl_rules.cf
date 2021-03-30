@@ -77,3 +77,7 @@ describe D_HONDROSTRONG  Medical spam
 header   D_KETO  Subject =~ /^Ασφαλής μείωση βάρους/
 score    D_KETO  5.0
 describe D_KETO  Weight loss spam
+
+header   D_KETO2  Subject =~ /^Οι 30 ημέρες με KETO: ΤΡΏΓΕ ΚΑΙ ΑΔΥΝΆΤΙΣΕ/
+score    D_KETO2  5.0
+describe D_KETO2  Weight loss spam
