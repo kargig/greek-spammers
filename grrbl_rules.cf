@@ -85,3 +85,19 @@ describe D_KETO2  Weight loss spam
 header   D_PROSTATITIS  Subject =~ /^Θεραπεία της προστατίτιδας/
 score    D_PROSTATITIS  5.0
 describe D_PROSTATITIS  Medical spam
+
+header   D_DIAGNOSIS  Subject =~ /^Έγκαιρη διάγνωση της υγείας σας/
+score    D_DIAGNOSIS  5.0
+describe D_DIAGNOSIS  Medical spam
+
+header   D_KETO3  Subject =~ /^Κετογενική δίαιτα – η μόνη διατροφή/
+score    D_KETO3  5.0
+describe D_KETO3  Weight loss spam
+
+header   D_KITCHEN  Subject =~ /^Όλα όσα χρειάζεστε για μαγείρεμα σε ένα μέρος/
+score    D_KITCHEN  5.0
+describe D_KITCHEN  Kitchen supplies spam
+
+header   D_ALKOTOX  Subject =~ /Alkotox/
+score    D_ALKOTOX  5.0
+describe D_ALKOTOX  Anti-alcoholism spam
